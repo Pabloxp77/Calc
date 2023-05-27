@@ -13,7 +13,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(90deg, #1a7faa,#0e2963, #5a19bb);
+    background: linear-gradient(90deg, #2a1560,#3d2b6c, #412c67);
     color: #d1d5db ;
 }
 
@@ -37,7 +37,7 @@
     content: '';
     height: 3px;
     width: 150px;
-    background: linear-gradient(90deg, #1a7faa,#0e2963, #5a19bb);
+    background: linear-gradient(90deg, #2a1560,#3d2b6c, #412c67);
     bottom: 3px;
 }
 
@@ -63,7 +63,7 @@
 .input-field input {
     background-color: transparent;
     border: none;
-    border-bottom: 1px solid #5a19bb;
+    border-bottom: 1px solid #412c67;
     color: #fff;
     font-size: 20px;
     padding: 5px;
@@ -82,7 +82,7 @@
 }
 
 #calculate {
-    background: linear-gradient(90deg, #1a7faa,#0e2963, #5a19bb);
+    background: linear-gradient(90deg, #2a1560,#3d2b6c, #412c67);
     border: none;
     padding: 10px;
     color: #fff;
